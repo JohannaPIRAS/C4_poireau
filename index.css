@@ -1,0 +1,73 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+
+p {
+    font-size: 16px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.bg-1 {
+    background-color: white;
+    color: black;
+    margin-top: -20px;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: #E1EFE0
+}
+#logo{
+  margin-bottom: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+button {
+    background-color: #E1EFE0;
+}
+#tous,
+#Fruits{
+  color: #7DA37A;
+}
+
+th{
+  margin : 0px;
+}
+#impression {
+  font-weight: bold;
+  font-size: 15px;
+}
+p{
+  color: grey;
+  font-size: 11px;
+}
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
